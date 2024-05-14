@@ -4,7 +4,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 
 Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegacion similar con un diseño responsive y funcionalidades basicas.
 
-# # #  Caracteristicas.
+### Caracteristicas.
 
 * **Diseño Responsive:** Adaptable a diferentes tamaños de pantalla una experiencia de usuario optima en dispositivos.
 
@@ -14,7 +14,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 
 * **Iconografia y Estilos Modernos:** Uso de la biblioteca de iconos de Material Desing y estilos CSS modernos para una apariencia cool.
 
-# # # Tecnologias Utilizadas.
+### Tecnologias Utilizadas.
 + **HTML5:** Para la estructura basica del sitio.
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 
