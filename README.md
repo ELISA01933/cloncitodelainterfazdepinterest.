@@ -19,7 +19,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 
 ### Vista Previa del Proyecto.
-![Demo](mis_imagenes/) 
+![Demo](mis_imagenes/pinterest_scree.png) 
       
 ### Contacto.
 Si te gustaria invitarme a colaborar en un proyecto contactame por [LinKedIn](https://www.linkedin.com/in/elisa-lopez-193b3528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
